@@ -1,0 +1,24 @@
+1.What is Git and GitHub?
+Git:-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git also tracks the history of changes to a project’s source code including what specifically has been changed and who has changed what parts and when have they been changed, this feature is termed as Version Control.
+
+Github is a web-based service for version control using Git. One can look at other people’s code, identify issues with their code and even propose changes. This also helps us in improving our code.
+GitHub is a
+A publishing tool
+
+A version control system
+
+A collaboration tool
+
+It allows developers to host their files in a Git Repository so that other people can collaborate on projects with them Its like a social networking site for developers.
+
+2.Why is GitHub so popular?
+Github automatically tracks every minute change in your project .
+Allows us to revert back to a previous version no matter how many times you changed your files.
+It allows people to work together on the same project at the same time without disturbing each other’s files
+Easy to learn and work on .
+
+
+3. What are the other platforms similar to GitHub?
+1. SourceForge
+2. Launchpad
+3. GitBucket
